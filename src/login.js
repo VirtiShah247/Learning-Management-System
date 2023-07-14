@@ -23,7 +23,7 @@ function logout()
     if (confirm("Are u sure u want to logout?") == true)
     {
         localStorage.removeItem("login");
-        window.location.href = 'index.html';     
+        window.location.href = 'public/html/index.html';     
     }
 }
 
