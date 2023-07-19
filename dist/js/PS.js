@@ -72,7 +72,7 @@ function next() {
   if (question_count == questions.length - 1) {
     sessionStorage.setItem("time", time);
     clearInterval(mytime);
-    location.href = "https://virtishah247.github.io/Learning-Management-System/public/html/end.html";
+    location.href = "https://virtishah247.github.io/learning-management-system/public/html/end.html";
   }
   console.log(question_count);
 

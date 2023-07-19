@@ -4,5 +4,5 @@ function submitForm(e) {
   
     sessionStorage.setItem("name", name);
   
-    location.href = "https://virtishah247.github.io/Learning-Management-System/public/html/quiz1_de.html";
+    location.href = "https://virtishah247.github.io/learning-management-system/public/html/quiz1_de.html";
   }
